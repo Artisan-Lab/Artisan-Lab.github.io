@@ -5,7 +5,7 @@ html, body, .cover {
 }
 
 .cover {
-	background: url('img/couchfriends.jpg') top left no-repeat;
+	background: url('img/seminar.jpg') top left no-repeat;
 	background-size: cover;
 	display: table;
 	width: 100%;
